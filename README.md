@@ -49,6 +49,15 @@
 <a href="https://keras.io/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="60" height="60">
 </a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="60" height="60">
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
+</a>
 
 
 
