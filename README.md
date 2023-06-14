@@ -12,6 +12,7 @@
 
 - 👀 I’m interested in **Business, Cybersecurity, and Machine Learning**
 
+- 🔭 I'm currently building a **Network Intrusion Detection System** with deep learning
 - 👨‍💻 All of my projects are available at: https://github.com/randysongEXE?tab=repositories
 - 🌱 I’m currently learning **C, Tensorflow, Bootstrap**
 - 📫 How to reach me: randyksong23@gmail.com
