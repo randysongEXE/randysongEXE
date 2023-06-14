@@ -20,11 +20,16 @@
 ### Languages and Technologies
 
 <a href="https://www.python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="75" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="60" height="60">
 </a>
 <a href="https://www.oracle.com/java/">
-  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.jpg" width="75" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60">
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="60" height="60">
+</a>
+
+
 
 
 
