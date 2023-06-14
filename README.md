@@ -6,7 +6,7 @@
  
  <div align="center">
  
-### Student at Hebron High School
+### Student at Hebron High School pursuing Deep-Learning oriented projects
  
  </div>
 
