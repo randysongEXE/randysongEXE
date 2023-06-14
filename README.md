@@ -18,9 +18,14 @@
 - ⚡ Fun Fact: **I can solve a rubix's cube in under 30 seconds**
 
 ### Languages and Technologies
+
 <a href="https://www.python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="75" height="75">
 </a>
+<a href="https://www.oracle.com/java/">
+  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.jpg" width="75" height="75">
+</a>
+
 
 
 <!---
