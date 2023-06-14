@@ -17,7 +17,11 @@
 - 📫 How to reach me: randyksong23@gmail.com
 - ⚡ Fun Fact: **I can solve a rubix's cube in under 30 seconds**
 
+ <div align="center">
+ 
 ### Languages and Technologies
+ 
+ </div>
 
 <a href="https://www.python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="60" height="60">
