@@ -1,6 +1,14 @@
- Hi, I'm Randy Song
-------------------
-Student at Hebron High School pursuing Deep Learning/AI Projects
+<div align="center">
+ 
+# Hi, I'm Randy Song
+ 
+ </div>
+ 
+ <div align="center">
+ 
+### Student at Hebron High School pursuing Deep Learning/AI Projects 
+ 
+ </div>
 
 - 👀 I’m interested in Business, Cybersecurity, and Machine Learning
 - 🌱 I’m currently learning Tensorflow, Bootstrap
