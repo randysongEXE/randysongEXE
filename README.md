@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in Business, Cybersecurity, and Machine Learning
 
-- 👨‍💻 All of my projects are availabe at: 
+- 👨‍💻 All of my projects are availabe at: https://github.com/randysongEXE?tab=repositories
 - 🌱 I’m currently learning Tensorflow, Bootstrap
 - 📫 How to reach me: randyksong23@gmail.com
 - ⚡ Fun Fact: I can solve a rubix's cube in under 30 seconds
