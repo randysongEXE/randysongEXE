@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hi there, I'm Randy Song <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f#file-hi-gif" width="40" height="40">
+# Hi there, I'm Randy Song 👋
 
 
  
