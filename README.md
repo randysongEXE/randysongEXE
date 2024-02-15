@@ -8,11 +8,11 @@
  
  <div align="center">
  
-### Student at Hebron High School pursuing AI/Business-related projects 🏗️
+### Student at Hebron High School pursuing Computer Science projects 🏗️
  
  </div>
 
-- 👀 I’m interested in **Business, Cybersecurity, and Machine Learning**
+- 👀 I’m interested in **Cybersecurity**
 
 - 🔭 I'm currently building a **Network Intrusion Detection System** with deep learning
 - 👨‍💻 All of my projects are available at: https://github.com/randysongEXE?tab=repositories
