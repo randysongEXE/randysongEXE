@@ -8,7 +8,7 @@
  
  <div align="center">
  
-### Student at Hebron High School pursuing Computer Science projects 🏗️
+### Student at Hebron High School 🏗️
  
  </div>
 
