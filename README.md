@@ -8,17 +8,12 @@
  
  <div align="center">
  
-### Student at Hebron High School 🏗️
+### Student at Texas A&M University 🏗️
  
  </div>
-
-- 👀 I’m interested in **Cybersecurity**
-
-- 🔭 I'm currently building a **Network Intrusion Detection System** 
+ 
 - 👨‍💻 All of my projects are available at: https://github.com/randysongEXE?tab=repositories
-- 🌱 I’m currently learning **C, Tensorflow, Bootstrap**
-- 📫 How to reach me: randyksong23@gmail.com
-- ⚡ Fun Fact: **I can solve a rubix's cube in under 30 seconds**
+- 📫 How to reach me: randysong23@tamu.edu
 
  <div align="center">
  
