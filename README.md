@@ -8,7 +8,7 @@
  
  <div align="center">
  
-### Student at Texas A&M University 🏗️
+### Electrical Engineering student at Texas A&M University 🏗️
  
  </div>
  
