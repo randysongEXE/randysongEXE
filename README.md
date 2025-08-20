@@ -36,6 +36,8 @@
 <a href="https://www.jetbrains.com/pycharm/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 </a>
+<a href="https://isocpp.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" height="60">
 
 
 
